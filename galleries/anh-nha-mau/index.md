@@ -3,8 +3,36 @@ layout: page
 title: Ảnh Nhà Mẫu
 ---
 
-Tọa lạc tại mặt tiền đường Nguyễn Văn Linh cách Phú Mỹ Hưng 5km, gần khu dân cư Trung Sơn, Đại học RIMIT, Lotte Mart, Bệnh viện Pháp Việt.
+![Hình ảnh hành lang 1 của căn hộ Skyway Residence](/images/FormatFactoryhanh lang 01.jpg)
 
-Dễ dàng di chuyển đến trung tâm Q7,Q5,Q1 thông qua các trục đường như: Nguyễn Tri Phương nối dài (Phạm Hùng), Quốc lộ 50, đường Nguyễn Hữu Thọ, cầu Nguyễn Văn Cừ...
+Hình ảnh hành lang 1 của căn hộ Skyway Residence
 
-Cơ sở hạ tầng đã hoàn thiện và đồng bộ. Trong dự án đã có hồ bơi, sân tennis, shop thương mại, sân bóng...
+
+![Hình ảnh hành lang 2 của căn hộ Skyway Residence](/images/FormatFactoryhanh lang 02.jpg)
+
+Hình ảnh hành lang 2 của căn hộ Skyway Residence
+
+
+![Hình ảnh phòng khách 1 của căn hộ Skyway Residence](/images/FormatFactoryphong khach.jpg)
+
+Hình ảnh phòng khách 1 của căn hộ Skyway Residence
+
+
+![Hình ảnh phòng khách 2 của căn hộ Skyway Residence](/images/FormatFactoryphong khac 02.jpg)
+
+Hình ảnh phòng khách 2 của căn hộ Skyway Residence
+
+
+![Hình ảnh phòng khách 3 của căn hộ Skyway Residence](/images/FormatFactoryphong khach 03.jpg)
+
+Hình ảnh phòng khách 3 của căn hộ Skyway Residence
+
+
+![Hình ảnh phòng ngủ em bé của căn hộ Skyway Residence](/images/FormatFactoryphong ngu em be.jpg)
+
+Hình ảnh phòng ngủ em bé của căn hộ Skyway Residence
+
+
+![Hình ảnh phòng ngủ của căn hộ Skyway Residence](/images/FormatFactoryphong ngu.jpg)
+
+Hình ảnh phòng ngủ của căn hộ Skyway Residence

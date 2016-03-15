@@ -3,19 +3,18 @@ layout: page
 title:
 ---
 
-# SKYWAY RESIDENCE - live it your way - sống theo cách của bạn
+## SKYWAY RESIDENCE - live it your way - sống theo cách của bạn
 
+![Hình ảnh hành lang 1 của căn hộ Skyway Residence](/images/skyway.jpg)
 
 Phong cách sống hiên đại và năng động
 
-Lần đầu tiên xuất hiện tại
-
-Khu nam Sài Gòn - Phú Mỹ Hưng
+Lần đầu tiên xuất hiện tại Khu nam Sài Gòn - Phú Mỹ Hưng
 
 HOTLINE : 090 817 7979
 
 
-SKYWAY RESIDENCE - Thiết kế hoàn hảo cho cuộc sống của bạn
+## SKYWAY RESIDENCE - Thiết kế hoàn hảo cho cuộc sống của bạn
 
 Mỗi căn hộ Skyway đều được thiết kế theo hướng 'mở' để bạn có thể tự do sáng tạo trong không gian của riêng mình.
 
@@ -23,11 +22,23 @@ Skyway Residence tôn vinh phong cách và định hướng thẩm mỹ của b�
 
 Không gian sống của mỗi căn hộ từ một đến ba phòng ngủ luôn ngập tràn ánh sáng tự nhiên hòa quyện cùng khung cảnh thiên nhiên xung quanh khu dân cư.
 
+![Hình ảnh hành lang 1 của căn hộ Skyway Residence](/images/FormatFactorycan ho mau 01 02.jpg)
+
+![Hình ảnh hành lang 1 của căn hộ Skyway Residence](/images/FormatFactorycan ho mau 03 04.jpg)
+
+![Hình ảnh hành lang 1 của căn hộ Skyway Residence](/images/FormatFactorycan ho mau 05 06.jpg)
+
+![Hình ảnh hành lang 1 của căn hộ Skyway Residence](/images/FormatFactorycan ho mau 07 08.jpg)
+
+![Hình ảnh hành lang 1 của căn hộ Skyway Residence](/images/FormatFactorycan ho mau 09 10.jpg)
+
+
+
 
 SKYWAY RESIDENCE
 ----------------
 
-Tọa lạc tại mặt tiền đường Nguyễn Văn Linh,, cách phú Mỹ Hưng 5km gần khu dân cư Trung Sơn,Đại Học RIMTT, Lotte Mart, Bện viện Pháp - Việt.
+Tọa lạc tại mặt tiền đường Nguyễn Văn Linh, cách phú Mỹ Hưng 5km gần khu dân cư Trung Sơn,Đại Học RIMTT, Lotte Mart, Bện viện Pháp - Việt.
 
 Thuận lợi di chuyển đến trung tâm Q7,Q5 và Q1 thông qua các trục đường như: Nguyễn Tri Phương nối dài(Phạm Hùng), Quốc lộ 50,đường Nguyễn Hữu Thọ, cầu Nguyễn Văn Cừ...
 

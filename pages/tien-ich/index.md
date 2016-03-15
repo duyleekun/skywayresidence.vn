@@ -3,14 +3,18 @@ layout: page
 title: Tiện Ích Dự Án
 ---
 
-# SKYWAY RESIDENCE
+Một môi trường sống với đầy đủ các tiện ích như 04 trường học, các Mini Mart tiện lợi 24/24h, hồ bơi, sân tennis, khu tập thể dục thể thao.
 
-Tọa lạc tại mặt tiền đường Nguyễn Văn Linh,, cách phú Mỹ Hưng 5km gần khu dân cư Trung Sơn,Đại Học RIMTT, Lotte Mart, Bện viện Pháp - Việt.
+Tất cả như hòa quyện vào nhau tạo nên một cộng đồng, một không gian sống xanh tươi và hiện đại
 
-Thuận lợi di chuyển đến trung tâm Q7,Q5 và Q1 thông qua các trục đường như: Nguyễn Tri Phương nối dài(Phạm Hùng), Quốc lộ 50,đường Nguyễn Hữu Thọ, cầu Nguyễn Văn Cừ...
+![Trường mầm non, cấp 1, 2, 3.](/images/tien ich dich vu.jpg)
 
-Cơ sở hạ tầng đã hoàn thiện và đồng bộ: Hồ bơi, sân tennis, các Shop thương mại...
+Trường mầm non, cấp 1, 2, 3
 
-Được hỗ trợ vay vốn từ các ngân hàng: Viettin Bank, Vietcom Bank, Việt Á Bank, Exim Bank.
+![Hình ảnh sân tennis](/images/san tennis.jpg)
 
-Hiện tại, khu căn hộ SKYWAY RESIDENCE đã xây đến tầng 12 và sẽ hoàn thiện trong cuối năm 2015.
+Hình ảnh sân tennis
+
+![Hình ảnh hồ bơi](/images/ho boi.jpg)
+
+Hình ảnh hồ bơi

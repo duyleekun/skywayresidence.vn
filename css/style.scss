@@ -5,8 +5,13 @@
 
 $footer-size: 60px;
 
+// For navbar
+body { padding-top: 70px; }
+
 body {
-  margin-bottom: $footer-size;
+  padding-bottom: $footer-size;
+  min-height: 100%;
+  position:relative;
 }
 
 .footer {
@@ -18,5 +23,12 @@ body {
   .text-muted  {
     margin: 20px 0;
     color: #777;
+  }
+}
+.post-content {
+  img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
   }
 }
