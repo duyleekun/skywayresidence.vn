@@ -17,3 +17,5 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 exclude: [skywayresidence.vn.iml]
+gems:
+  - jekyll-sitemap
